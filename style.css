@@ -10,6 +10,7 @@ body {
   font-family: "Roboto";
   background-color: #f2f2f7;
   transition: 0.4s;
+  
 }
 body.dark {
   background-color: #212121;
@@ -54,4 +55,11 @@ input:checked + .slider:before {
   left: calc(100% - 1.7rem);
   background: #37393f;
   box-shadow: inset -3px -2px 5px -2px #8983f7, inset -10px -4px 0 0 #a3dafb;
+}
+.lista{
+  font-style: italic;
+  color:#1100ff
+}
+h1{
+  color: crimson;
 }
