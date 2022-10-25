@@ -4,6 +4,12 @@
     margin: 12px auto;
     color: #202122;
 }
+.article-void {
+    max-width: 40em;
+    padding: 0 12px;
+    margin: 12px auto;
+    color: rgb(255, 255, 255);
+}
 .title{
     font-family: 'Times New Roman', Times, serif;
     line-height: 1.3;
