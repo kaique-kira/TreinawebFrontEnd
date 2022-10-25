@@ -1,0 +1,35 @@
+.header{
+    padding: 12px 24px;
+    background-color: #eaecf0;
+}
+.header-content {
+    max-width: 40em;
+    margin: 0 auto;
+}
+
+.figureLogo {
+    margin: 0;
+    font-family: 'MuseoModerno', cursive;
+
+    font-style: italic;
+    display: flex;
+    align-items: center;
+}
+body{
+    margin: 0;
+}
+.logoName {
+    margin: 0 12px;
+}
+.rodape{
+    background-color: #eaecf0;
+    text-align: center;
+    padding: 12px;
+}
+.a{
+    color: #36c;
+
+}
+a:not(:hover) {
+    text-decoration: none;
+}
